@@ -32,3 +32,4 @@ https://docs.google.com/presentation/d/1ZXEZZ7qpsJs_w_p44tKQava1bmZkRzvwT0SyGMKF
 https://docs.google.com/document/d/1gsr41q8cWLN3WLaQSFzCa2UsCo3IJ_-eOUuJ8i2pJzw/edit?tab=t.0
 
 # Criterios clave - preguntas Tarea #2:
+https://docs.google.com/document/d/1cFWMapAtKupeNHBo2JKrcqi5pHWvVKSGOYihhTPLLDs/edit?usp=sharing
