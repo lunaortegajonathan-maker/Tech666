@@ -23,7 +23,12 @@ Ana Flores
 Ana Varenka Fernández Robledo
 
 
-# TAREA 2: ATEBCIÓN AL USUARIO Y GESTIÓN DE INCIDENTES
+# TAREA 2: ATENCIÓN AL USUARIO Y GESTIÓN DE INCIDENTES
 
 # link de la presentación:
 https://docs.google.com/presentation/d/1ZXEZZ7qpsJs_w_p44tKQava1bmZkRzvwT0SyGMKFE5o/edit?slide=id.g3b679506fbd_1_0#slide=id.g3b679506fbd_1_0
+
+# link de la documentacion:
+https://docs.google.com/document/d/1gsr41q8cWLN3WLaQSFzCa2UsCo3IJ_-eOUuJ8i2pJzw/edit?tab=t.0
+
+# Criterios clave - preguntas Tarea #2:
