@@ -37,3 +37,6 @@ https://docs.google.com/document/d/1cFWMapAtKupeNHBo2JKrcqi5pHWvVKSGOYihhTPLLDs/
 # TAREA 3:Gestión de usuarios, accesos y permisos (SaaS / cuentas) :
 https://docs.google.com/document/d/1KR7NMEmk22tTPRzGCRAU-RRWNnHaUySRo0LluTWETys/edit?usp=sharing
 https://docs.google.com/presentation/d/1ZKufag4AlfedtxL55ramXsgsGg6CfZLgR6xPr1zQlDA/edit?usp=sharing
+
+# TAREA 4 – Soporte a infraestructura y conectividad (hardware/red) 
+https://docs.google.com/presentation/d/1x61hy1sFJklwm1hSZM3WByFYGrDcP0Z_zoyYYDaGNBE/edit?usp=sharing
