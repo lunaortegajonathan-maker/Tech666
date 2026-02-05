@@ -43,3 +43,6 @@ https://docs.google.com/presentation/d/1x61hy1sFJklwm1hSZM3WByFYGrDcP0Z_zoyYYDaG
 
 # Tarea 5 - Gestión de Incidentes: Priorización y SLA 
 https://docs.google.com/presentation/d/1POS49WJRTEhWp3Kfj1lvOHnERCRm0frN4AwXVgoAp74/edit?usp=sharing
+
+# Tarea 6 - Seguridad básica y respuesta a incidentes (phishing / accesos / malware) :
+
