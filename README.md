@@ -40,3 +40,6 @@ https://docs.google.com/presentation/d/1ZKufag4AlfedtxL55ramXsgsGg6CfZLgR6xPr1zQ
 
 # TAREA 4 – Soporte a infraestructura y conectividad (hardware/red) 
 https://docs.google.com/presentation/d/1x61hy1sFJklwm1hSZM3WByFYGrDcP0Z_zoyYYDaGNBE/edit?usp=sharing
+
+# Tarea 5 - Gestión de Incidentes: Priorización y SLA 
+https://docs.google.com/presentation/d/1POS49WJRTEhWp3Kfj1lvOHnERCRm0frN4AwXVgoAp74/edit?usp=sharing
