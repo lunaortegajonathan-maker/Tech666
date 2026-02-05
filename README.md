@@ -45,4 +45,4 @@ https://docs.google.com/presentation/d/1x61hy1sFJklwm1hSZM3WByFYGrDcP0Z_zoyYYDaG
 https://docs.google.com/presentation/d/1POS49WJRTEhWp3Kfj1lvOHnERCRm0frN4AwXVgoAp74/edit?usp=sharing
 
 # Tarea 6 - Seguridad básica y respuesta a incidentes (phishing / accesos / malware) :
-
+https://docs.google.com/presentation/d/1L5POMJxDN2EwY-ZFK1XWU2bQZItbgWzLN1btSzk2PT0/edit?slide=id.p#slide=id.p
