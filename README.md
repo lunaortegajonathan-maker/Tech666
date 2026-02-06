@@ -46,3 +46,6 @@ https://docs.google.com/presentation/d/1POS49WJRTEhWp3Kfj1lvOHnERCRm0frN4AwXVgoA
 
 # Tarea 6 - Seguridad básica y respuesta a incidentes (phishing / accesos / malware):
 https://docs.google.com/presentation/d/1L5POMJxDN2EwY-ZFK1XWU2bQZItbgWzLN1btSzk2PT0/edit?slide=id.p#slide=id.p
+
+# Tarea 7 - Documentación y Base de Conocimiento (KB)
+https://docs.google.com/presentation/d/1aymsk52XcS9765P2MxSn7sKcuu3qbDhKDwXf8s6-Z3M/edit?usp=sharing
