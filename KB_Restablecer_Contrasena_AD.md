@@ -1,5 +1,12 @@
 #Restablecer contraseña a un usuario windows
 
+#¿A quién aplica? 
+A usuarios y equipos en Active Directory
+
+#Causa probable 
+Contraseña expirada, olvidada o cuenta bloqueada.
+
+
 #Síntomas
 -Usuario no puede iniciar sesión en Windows con su cuenta corporativa.
 -Mensajes como “ El nombre de usuario o la contraseña son incorrectos” o “La contraseña ha expirado”.
