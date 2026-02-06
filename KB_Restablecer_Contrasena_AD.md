@@ -22,3 +22,6 @@ Comunicar la contraseña temporal al usuario.
 
 * El equipo maneja problemas avanzados como cuentas corruptas, problemas en los controladores de Dominio o políticas de grupo conflictivas.
 * Escalar al departamento de Infraestructura de servidores.
+
+#Nota de seguridad
+No compartir contraseñas por canales no seguros y/o públicos y cambiarla inmediatamente después del primer inicio de sesión
