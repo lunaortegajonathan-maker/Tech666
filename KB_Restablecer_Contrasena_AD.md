@@ -1,4 +1,11 @@
-Solución paso a paso (5–8 pasos)
+#Restablecer contraseña a un usuario windows
+
+#Síntomas
+-Usuario no puede iniciar sesión en Windows con su cuenta corporativa.
+-Mensajes como “ El nombre de usuario o la contraseña son incorrectos” o “La contraseña ha expirado”.
+-La cuenta está bloqueada tras varios intentos fallidos
+
+#Solución paso a paso (5–8 pasos)
 
 El administrador abre Usuarios y equipos de Active Directory.
 Busca el departamento y la cuenta del usuario afectado.
@@ -9,7 +16,7 @@ Comunicar la contraseña temporal al usuario.
 
 
 
-Escalamiento (si no funciona)
+#Escalamiento (si no funciona)
 
 * El equipo maneja problemas avanzados como cuentas corruptas, problemas en los controladores de Dominio o políticas de grupo conflictivas.
 * Escalar al departamento de Infraestructura de servidores.
