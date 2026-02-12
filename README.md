@@ -49,3 +49,6 @@ https://docs.google.com/presentation/d/1L5POMJxDN2EwY-ZFK1XWU2bQZItbgWzLN1btSzk2
 
 # Tarea 7 - Documentación y Base de Conocimiento (KB)
 https://docs.google.com/presentation/d/1aymsk52XcS9765P2MxSn7sKcuu3qbDhKDwXf8s6-Z3M/edit?usp=sharing
+
+#Tarea 8 - Presentación final profesional
+https://docs.google.com/presentation/d/1ON_bJcgs24oVoBm6LerCekN2U-QLBf6RlpdphQ263Hw/edit?slide=id.p#slide=id.p
